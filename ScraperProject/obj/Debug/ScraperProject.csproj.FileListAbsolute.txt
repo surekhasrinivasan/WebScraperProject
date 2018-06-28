@@ -1,0 +1,12 @@
+C:\Users\Sreenath\source\repos\ScraperProject\ScraperProject\bin\Debug\ScraperProject.exe.config
+C:\Users\Sreenath\source\repos\ScraperProject\ScraperProject\bin\Debug\ScraperProject.exe
+C:\Users\Sreenath\source\repos\ScraperProject\ScraperProject\bin\Debug\ScraperProject.pdb
+C:\Users\Sreenath\source\repos\ScraperProject\ScraperProject\bin\Debug\WebDriver.dll
+C:\Users\Sreenath\source\repos\ScraperProject\ScraperProject\bin\Debug\WebDriver.xml
+C:\Users\Sreenath\source\repos\ScraperProject\ScraperProject\obj\Debug\ScraperProject.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\ScraperProject\ScraperProject\obj\Debug\ScraperProject.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\ScraperProject\ScraperProject\obj\Debug\ScraperProject.csproj.CopyComplete
+C:\Users\Sreenath\source\repos\ScraperProject\ScraperProject\obj\Debug\ScraperProject.exe
+C:\Users\Sreenath\source\repos\ScraperProject\ScraperProject\obj\Debug\ScraperProject.pdb
+C:\Users\Sreenath\source\repos\ScraperProject\ScraperProject\bin\Debug\WebDriver.Support.dll
+C:\Users\Sreenath\source\repos\ScraperProject\ScraperProject\bin\Debug\WebDriver.Support.xml
